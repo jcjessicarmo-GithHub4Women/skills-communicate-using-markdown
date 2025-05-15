@@ -11,3 +11,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 </pre>
 
 Você encontra mais imagens no link: https://octodex.github.com/
+
+
+## Adicionando uma lista
+```
+- [x] Acordar 8 horas
+- [x] Escovar os dentes
+- [ ] Tomar café
+```
